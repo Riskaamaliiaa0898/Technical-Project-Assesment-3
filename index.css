@@ -1,0 +1,35 @@
+body {
+  background-color: whitesmoke;
+}
+.container-fluid {
+  background-color: rgb(146, 150, 199);
+  padding: 1rem;
+  border-radius: 5px;
+}
+.navbar-brand {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 18px;
+}
+.text-judul-halaman {
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  margin: 10px 5px 20px 5px;
+  color: rgb(146, 150, 199);
+  text-align: center;
+}
+.form {
+  margin-right: 15px;
+}
+/* card */
+.card-body {
+  font-family: "Courier New", Courier, monospace;
+}
+.card-text-reating {
+  text-align: right;
+  color: rgb(58, 58, 221);
+}
+.card h-100 {
+  margin: 2rem 0.5rem 0.5rem 0rem;
+  padding: 10px;
+}
